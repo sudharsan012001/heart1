@@ -1,0 +1,22 @@
+#a{
+    background-color: red;
+    height: 200px;
+    width: 120px;
+    border-top-right-radius: 45%;
+    border-top-left-radius: 45%;
+    transform: rotate(45deg);
+    position: relative;
+    top: 200px;
+    left: 320px;
+    
+}
+#b{
+    background-color: red;
+    height: 200px;
+    width: 120px;
+    border-top-right-radius: 45%;
+    border-top-left-radius: 45%;
+    transform: rotate(-45deg);
+    position: relative;
+    top: 0px;
+    left: 263px;
